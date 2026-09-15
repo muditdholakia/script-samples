@@ -1,3 +1,5 @@
+> Curated learning fork maintained by [Mudit Dholakia](https://github.com/muditdholakia). Original source: [pnp/script-samples](https://github.com/pnp/script-samples). See [curation purpose and setup](CURATOR_README.md) and [security guidance](CURATOR_SECURITY.md). Upstream authorship and license are retained.
+
 # Welcome to PnP Script Samples
 
 This repository contains scripts for PnP PowerShell, CLI for Microsoft365, Graph SDK PowerShell, SPO PowerShell, and Azure CLI, that are based on real world examples of the scripts that you run to perform tasks.
